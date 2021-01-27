@@ -729,7 +729,7 @@ smart_open[s3]==4.1.2
     # via
     #   -c ../requirements.txt
     #   -r requirements_tune.in
-smmap==3.0.4
+smmap==4.0.0
     # via gitdb
 sortedcontainers==2.3.0
     # via distributed

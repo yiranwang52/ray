@@ -523,7 +523,7 @@ pyasn1==0.4.8
     #   rsa
 pycparser==2.20
     # via cffi
-pyglet==1.5.0
+pyglet==1.5.15
     # via gym
 pygments==2.7.4
     # via
